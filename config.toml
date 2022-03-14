@@ -1,0 +1,4 @@
+baseURL = '/'
+languageCode = 'es-es'
+title = 'Sitio web estático'
+defaultContentLanguage = 'es'
