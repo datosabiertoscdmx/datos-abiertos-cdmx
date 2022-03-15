@@ -15,7 +15,9 @@ module.exports = {
         'eerie-black': '#141414',
         'cultured': '#fefefe',
         nickel: '#6F7271',
-        'tyrian-purple': '#5F1234'
+        'soft-white': '#ECEDEF',
+        'field-drab': '#6A522F',
+        'pullman-brown': '#624720'
       },
       fontFamily: {
         roboto: ['Roboto', 'sans-serif'],
